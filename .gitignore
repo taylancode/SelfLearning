@@ -1,0 +1,9 @@
+README.md
+pyvenv.cfg
+Include
+Lib
+Scripts
+.venv
+venv
+__pycache__
+.gitignore
